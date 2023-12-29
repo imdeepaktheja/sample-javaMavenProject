@@ -1,1 +1,1 @@
-# sample-mavenproject
+# sample-javaMavenProject
